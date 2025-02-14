@@ -3,7 +3,7 @@
 ## How to use.
 put this on your `package.json`
 ```
-"pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git"
+"pixaldrain-sinhalasub": "git+https://github.com/mrsupunfernando12/pixaldrain-sinhalasub.git"
 ```
 And use like this
 ```
