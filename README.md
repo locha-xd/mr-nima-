@@ -36,7 +36,6 @@ https://pixeldrain.com/api/file/nDM7ERPW
 ====================================================================================
 
 #### NPM : [mrnima-moviedl](https://www.npmjs.com/package/mrnima-moviedl)
-### GITHUB : [MRnima](https://github.com/darkmakerofc)
 
 ```
 inbox awilla kohomada ahanna oni ne karana widiha thama damme repo 1k hadala
